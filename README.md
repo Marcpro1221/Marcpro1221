@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcpro1221
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Kotlin 
-- 💞️ I’m looking to collaborate on github repo
+- 🌱 I'm Full Stack Dev. 
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me marcrolandmarc@gmail.com
 
 <!---

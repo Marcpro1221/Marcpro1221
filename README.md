@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Marcpro1221
+- 👋 Hi, I’m Marc Roland Soniega
 - 👀 I’m interested in coding
 - 🌱 I'm Full Stack Dev. 
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m looking to collaboration on github
 - 📫 How to reach me marcrolandmarc@gmail.com
 
 <!---
